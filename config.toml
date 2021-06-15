@@ -1,4 +1,0 @@
-[url]
-ping = "http://localhost:8080/ping"
-app = "http://localhost:8080/app"
-screen = "http://localhost:8080/screen"
