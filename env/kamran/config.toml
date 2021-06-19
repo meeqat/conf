@@ -1,4 +1,4 @@
 [url]
 ping = "http://localhost/ping"
-app = "http://localhost/api/v1/event/kamran"
-screen = "http://localhost/api/v1/screen/kamran"
+app = "http://localhost/app"
+screen = "http://localhost/screen"
